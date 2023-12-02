@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap");
+.container {
+  font-family: "Nunito", sans-serif;
+  margin: 2em;
+}
+.home {
+  background-image: url("/images/croissant-1.JPG");
+  padding: 8em 4em;
+}
