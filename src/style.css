@@ -2,33 +2,30 @@
 .container {
   font-family: "Nunito", sans-serif;
   margin: 1em auto;
-    background-color:#f5eee7;
-    border-radius: 16px;
-    box-shadow: 6px 6px 4px #c4c0bd;
-   
+  background-color: #f5eee7;
+  border-radius: 16px;
+  box-shadow: 6px 6px 4px #c4c0bd;
 }
-h1{
+h1 {
   padding-top: 0.6em;
   text-align: center;
 }
 .about {
   margin: 0.5em;
 }
-.contact-us{
+.contact-us {
   text-align: center;
   margin: 2em auto;
 }
-a{
+a {
   margin: 2em auto;
   color: brown;
 }
-.images{
-display: flex;
-flex-wrap: wrap;
-  margin: 2em 1em;
- 
+.images {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 2em;
 }
-.image{
-   padding: 2em auto;
-   flex: 1;
+.image {
+  flex: 1;
 }
